@@ -11,11 +11,11 @@ h1,h2,h3,h4 {
 
 
 a {
-  color: #f6e7e7;
+  color: #000;
 }
 
 .header {
-  background: #fff;
+  background: #cdffe9;
   color: #000;
   height: 500px;
   padding: 30px 30px 30px;
