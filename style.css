@@ -5,18 +5,6 @@ html, body {
   font-family: 'helvetica', 'arial', 'sans';
 }
 
-<style>
-p.small {
-  line-height: 0.7;
-}
-
-p.big {
-  line-height: 1.8;
-}
-</style>
-</head>
-<body>
-
 h1,h2,h3,h4 {
   font-family: 'helvetica', 'arial', 'sans';
   }
@@ -79,6 +67,19 @@ a {
   text-decoration: none;
 }
 
+<html>
+<head>
+<style>
+p.small {
+  line-height: 0.7;
+}
+
+p.big {
+  line-height: 1.8;
+}
+</style>
+</head>
+<body>
 <p class="big">
 My name is Nicole. I'm an HCDE masters student and I'm excited to learn how to use some of the tools that I haven't used before in makerspaces.<br>
 Sculpture was my focus in my undergrad art degree. I have done a lot of woodworking and metal work such as casting and pouring bronze and welding. I've also worked with clay a lot.<br>
@@ -86,3 +87,5 @@ I worked as a designer with a sign shop in New York that specialized in vehicle 
 I'm excited to learn how to operate tools using coding.
 Another thing I'm excited about is using my extensive experience working with vectors in a new way and helping others work with vectors.
 </p>
+</body>
+</html>
