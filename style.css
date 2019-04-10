@@ -5,6 +5,18 @@ html, body {
   font-family: 'helvetica', 'arial', 'sans';
 }
 
+<style>
+p.small {
+  line-height: 0.7;
+}
+
+p.big {
+  line-height: 1.8;
+}
+</style>
+</head>
+<body>
+
 h1,h2,h3,h4 {
   font-family: 'helvetica', 'arial', 'sans';
   }
